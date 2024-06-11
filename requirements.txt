@@ -4,7 +4,6 @@ whitenoise
 psycopg2-binary
 requests
 urllib3
-tailwind
+django-tailwind
 django-browser-reload
-# django-tailwindcss
-# django-tailwind
+django-environ
