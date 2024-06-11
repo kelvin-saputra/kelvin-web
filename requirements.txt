@@ -5,5 +5,6 @@ psycopg2-binary
 requests
 urllib3
 tailwind
-django-tailwindcss
 django-browser-reload
+# django-tailwindcss
+# django-tailwind
